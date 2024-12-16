@@ -1,0 +1,18 @@
+body {
+    
+    margin: 0;
+    display: flex;
+    background-color: #adbcc7;    
+    height: 100vh; /* Ocupa toda la altura de la ventana */
+
+}
+
+/* Contenido principal */
+.content {    
+    padding: 20px;
+}
+
+h1{
+    font-family: sans-serif;
+}
+
